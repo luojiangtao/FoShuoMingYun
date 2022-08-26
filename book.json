@@ -1,7 +1,8 @@
 {
     "title": "《佛说命运》罗江涛·著",
     "plugins": [
-        "baidu-tongji"
+        "baidu-tongji",
+        "components"
     ],
     "pluginsConfig": {
         "baidu-tongji": {
